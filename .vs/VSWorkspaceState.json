@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Models",
+    "\\Models\\Account",
+    "\\Models\\Users",
+    "\\obj",
+    "\\Pages",
+    "\\Properties",
+    "\\Repositries",
+    "\\Services",
+    "\\Shared"
+  ],
+  "SelectedNode": "\\Shared\\Alert.razor",
+  "PreviewInSolutionExplorer": false
+}
